@@ -1,5 +1,3 @@
-<img width="299" height="91" alt="Inventory Control System Banner" src="https://github.com/user-attachments/assets/af4fe57b-32ac-435e-8818-7111b2f5a7a1" />
-
 # 📦 Inventory Control System
 ### 🎓 Mini Project – Final Project (MIS)
 
